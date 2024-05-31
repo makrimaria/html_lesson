@@ -1,0 +1,22 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #5874a1;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+h1 {
+    color: aquamarine;
+    text-align: end;
+}
+
+ol {
+    list-style-type: circle;
+}
+
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
