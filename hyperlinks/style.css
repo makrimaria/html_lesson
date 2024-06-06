@@ -1,0 +1,7 @@
+button{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(203, 176, 228);
+    color: aliceblue;
+    border-radius: 10px;
+}
